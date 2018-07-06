@@ -1,0 +1,29 @@
+{
+  "name": "trix-scientific",
+  "version": "0.1.0",
+  "description": "A modified version of Basecamp's Trix editor for use in scientific applications.",
+  "main": "dist/trix.js",
+  "style": "dist/trix.css",
+  "files": [
+    "dist/*.css",
+    "dist/*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRBragg/trix-scientific"
+  },
+  "keywords": [
+    "wysiwyg",
+    "scientific",
+    "editor"
+  ],
+  "author": "Basecamp, LLC, DRBragg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DRBragg/trix-scientific/issues"
+  },
+  "homepage": "https://github.com/DRBragg/trix-scientific",
+  "devDependencies": {
+    "svgo": "^0.6.1"
+  }
+}
